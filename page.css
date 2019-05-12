@@ -1,0 +1,30 @@
+.header-style {
+  background-color: #004080;
+}
+.header-style .index-button {
+  color: white;
+  background-color: #004080;
+  height: 100%;
+  width: 100%;
+  font-size: 20px;
+  border: none;
+}
+.header-style .index-button:hover {
+  background-color: #c1ffff;
+  color: black;
+}
+
+.card-style {
+  width: 75%;
+  margin-top: 20px;
+}
+.card-style .img-style {
+  height: 100%;
+  width: 100%;
+}
+.card-style .card-header-style {
+  padding: 0;
+  margin: 0;
+}
+
+/*# sourceMappingURL=page.css.map */
